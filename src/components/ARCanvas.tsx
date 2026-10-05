@@ -320,6 +320,9 @@ export const ARCanvas: React.FC<ARCanvasProps> = ({
             Hookah Bar AR
           </h2>
           <p style={{ marginTop: 8, color: '#9e9e9e', fontSize: '0.9rem' }}>{loadingStep}</p>
+          <p style={{ marginTop: 18, color: '#616161', fontSize: '0.78rem' }}>
+            Created by <span style={{ color: '#bdbdbd' }}>Bhavya Aneja</span> (<span style={{ color: '#e91e63' }}>@bhavya.aneja</span>)
+          </p>
         </div>
       )}
 

@@ -146,6 +146,15 @@ Hookah/
 
 ---
 
+## 👨‍💻 Author & Creator
+
+**Bhavya Aneja**
+- Instagram: [@bhavya.aneja](https://instagram.com/bhavya.aneja)
+- GitHub: [@bhavyaaneja27](https://github.com/bhavyaaneja27)
+
+---
+
 ## 📄 License
 
 MIT License © 2026 Bhavya Aneja
+
